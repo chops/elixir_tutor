@@ -6,7 +6,7 @@ There are most certainly bugs. For example, closing your browser will erase your
 
 Right now (11/20/2025) I'm focused on learning the fundamentals of Elixir/OTP. However, I plan to learn Phoenix as soon as I feel grounded. At that time I would be delighted to squash some bugs and improve the overall UX/UI. But until then, I'm just using this as a fun tool to get exposure to Enum functions and to learn how to use all of them. Maybe I will come back and add other Elixir modules as well. :)
 
-Additionally, I built this on nix-darwin and have no idea if this will easily build on other systems. I will proabbly put it on a flake-based NixOS machine soon and would be happy to provide build instructions. But for all other systems, YMMV. 
+Additionally, I built this on nix-darwin and have no idea if this will easily build on other systems. I will proabbly put it on a flake-based NixOS machine soon and would be happy to provide build instructions for NixOS. But for all other systems, YMMV. 
 
 I don't know if I put a license on this thing. It's just a fun project and I don't care what you do with it. If you want to have some fun with it, make changes, sell it, I don't care -- go for it!
 
